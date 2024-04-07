@@ -3,10 +3,10 @@ This repository contains MATLAB scripts and resources for various labs in the fi
 
 ## Labs Overview
 ### Computer Generated Holography
-Explore the principles and techniques behind computer-generated holography (CGH). Learn how to generate holograms computationally and visualize the holographic reconstruction process.
-- Binary Search
-- Simulated Annealing
-- Complex Outputs
+Explored the principles and techniques behind computer-generated holography (CGH). Learn how to generate holograms computationally and visualize the holographic reconstruction process using:
+- Binary Search creating a light spot
+- Simulated Annealing creating a light spot
+- Binary Search vs Simulated Annealing on Complex Outputs
 
 ### Fourier Optics
 - Motivated using FFT to transform signals to their constiuent frequencies
@@ -19,4 +19,5 @@ Explore the principles and techniques behind computer-generated holography (CGH)
 Delved into the statistical nature of photons and explore concepts such as photon counting, photon correlation, and intensity fluctuations. Gained insights into the behavior of light at the quantum level.
 
 ### Waveguides
-Study the behavior of light propagation in waveguides, such as optical fibers. Simulate waveguide structures, analyze their optical properties, and understand the principles underlying their functionality.
+1. Graphed the indices of TE/TM modes as a function of waveguide thickness on the micron level.
+2. Plotted and animated the electric field oscillation through different guides as a function of time. 
