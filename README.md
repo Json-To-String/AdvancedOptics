@@ -1,7 +1,7 @@
-* AdvancedOptics MATLAB Labs
+# AdvancedOptics MATLAB Labs
 This repository contains MATLAB scripts and resources for various labs in the field of optics, designed for the Cal Poly course PHYS 423 (Advanced Optics). 
 
-Labs Overview
+## Labs Overview
 1. Computer Generated Holography
 Explore the principles and techniques behind computer-generated holography (CGH). Learn how to generate holograms computationally and visualize the holographic reconstruction process.
 - Binary Search
