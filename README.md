@@ -11,11 +11,11 @@ Explore the principles and techniques behind computer-generated holography (CGH)
 ### Fourier Optics
 - Motivated using FFT to transform signals to their constiuent frequencies
 - Finding the irradiance patterns from an analytical solutions for a
-  ** 1-D Double
-  ** 1-D Single Slit
-  ** 2-D Double Slit
-  
-- 
+1. 1-D Double
+2. 1-D Single Slit
+3. 2-D Double Slit
+   using FFT
+
 ### Photon Statistics
 Delve into the statistical nature of photons and explore concepts such as photon counting, photon correlation, and intensity fluctuations. Gain insights into the behavior of light at the quantum level.
 
