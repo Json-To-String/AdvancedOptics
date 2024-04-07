@@ -16,7 +16,7 @@ Explore the principles and techniques behind computer-generated holography (CGH)
 3. 2-D Double Slit
 
 ### Photon Statistics
-Delve into the statistical nature of photons and explore concepts such as photon counting, photon correlation, and intensity fluctuations. Gain insights into the behavior of light at the quantum level.
+Delved into the statistical nature of photons and explore concepts such as photon counting, photon correlation, and intensity fluctuations. Gained insights into the behavior of light at the quantum level.
 
 ### Waveguides
 Study the behavior of light propagation in waveguides, such as optical fibers. Simulate waveguide structures, analyze their optical properties, and understand the principles underlying their functionality.
